@@ -5,7 +5,9 @@ The government would like to motivate citizens by sharing the total energy that 
 There are three sets of data:
 
 1.datasets/wastestats.csv: Recycling statistics per waste type for the period 2003 to 2017, Source: Singapore National Environment Agency.
+
 2.datasets/2018_2019_waste.csv : Recycling statistics per waste type for the period 2018 to 2019, Source: Singapore National Environment Agency.
+
 3.datasets/energy_saved.csv: Estimations of the amount of energy saved per waste type in kWh. 
 
 The task here is to analyse the data and sum up the values of energy saved per year from 2015 to 2019, by recycling glass, plastic, ferrous and non ferrous metals.
